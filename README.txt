@@ -1,6 +1,6 @@
 
 TITLE: 
-Shop - 100% Fully Responsive Free HTML5 Bootstrap Template
+This is our first site on GIT. Very exchited 
 
 AUTHOR:
 DESIGNED & DEVELOPED by FreeHTML5.co
